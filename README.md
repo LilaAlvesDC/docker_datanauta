@@ -98,6 +98,8 @@ Una vez que hayas verificado los requisitos del sistema, puedes descargar e inst
 
 Después de instalar Docker, puedes ejecutarlo en tu ordenador. Docker Desktop es la forma más fácil de comenzar con Docker en Windows y Mac. Docker Desktop proporciona una GUI y una CLI para administrar contenedores de Docker. En Linux, se utiliza la CLI de Docker para administrar contenedores.
 
+ ![docker desktop](str%5Cdocker_desktop.JPG)
+
   
 
 ### Paso 4: Verificar la instalación
@@ -258,7 +260,7 @@ Este código ejecuta el comando docker run para iniciar un nuevo contenedor a pa
 
 Una vez que hayas ejecutado la aplicación de Streamlit en tu máquina, puedes visualizar el contenido en tu navegador web visitando la dirección [http://localhost:8501/](http://localhost:8501/). Esto abrirá la aplicación en tu navegador y podrás interactuar con ella como cualquier otra página web. Asegúrate de tener la aplicación en ejecución en tu máquina antes de intentar acceder a ella a través del navegador.
 
-  
+ ![streamlit](str%5Cstreamlit.JPG)  
   
 
 Esperamos que hayas disfrutado esta guía.
